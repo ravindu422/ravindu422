@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Ravindu Thiranjaya
 
 <!--
 **ravindu422/ravindu422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
