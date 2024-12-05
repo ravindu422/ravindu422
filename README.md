@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravindu Thiranjaya</h1>
-<h3 align="center">A passionate developer from Sri Lanka</h3>
+<h3 align="left">A passionate developer from Sri Lanka</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
