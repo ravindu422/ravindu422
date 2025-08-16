@@ -1,80 +1,78 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding GIF"/>
+</div>
+
+<div align="center">
+  <h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ravindu Thiranjaya
+  </h1>
+
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Software+Engineer+in+Making;Code+Craftsman+%26+Problem+Solver;Building+Digital+Dreams+✨" />
 </p>
+  
+  <img src="https://komarev.com/ghpvc/?username=ravindu422&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile views"/>
+  <img src="https://img.shields.io/github/stars/ravindu42?label=Total%20Stars&style=for-the-badge&color=yellow" alt="GitHub stars"/>
+</div>
 
+<br>
 
-<h1 align="center">Hi 👋, I'm Ravindu Thiranjaya</h1>
-<h3 align="center">💻 Passionate Developer | 📍 Sri Lanka</h3>
+## 🚀 About Me
 
----
+👨‍💻 I’m a **Passionate Trainee Software Engineer** from Sri Lanka 🌍  
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=ravindu422&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
-</p>
+✨ **What I love:**  
+- 🖥 Full Stack Development (MERN)  
+- 📱 Mobile App Development  
+- ☁️ DevOps & Cloud  
+- 🤖 AI/ML  
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ravindu422&theme=onedark&row=1&column=6" alt="trophies"/>
-  </a>
-</p>
+🎯 **Current Focus:**  
+- Mastering **Agile Development (Scrum & Kanban)**  
+- Improving UI/UX design skills  
+- Exploring scalable backend architectures  
 
----
+💡 **Goal:** To craft meaningful, scalable applications that enhance user experiences 🚀
 
-### 👨‍💻 About Me
-- 🌱 I’m currently learning **MERN Stack & Kotlin Android Development**  
-- 🔭 I’m working on projects in **Web Apps | Mobile Apps | System Design**  
-- ⚡ Fun fact: I love solving real-world problems with code  
+<br>
 
----
+## 🛠️ Tech & Tools
 
-### 🔗 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/your-linkedin" target="_blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" />
-</a>
-<a href="mailto:yourmail@gmail.com" target="_blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="30" width="30" />
-</a>
-</p>
+<div align="center">
 
----
+### 💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### 🛠️ Languages and Tools
+### 🌐 Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-#### 🌐 Frontend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="35"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="35"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="35"/> 
-</p>
+### ⚙️ Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-#### ⚙️ Backend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="35"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="35"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="35"/> 
-</p>
+### 🔧 Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-#### 🗄️ Databases
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="35"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="35"/> 
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="35"/> 
-</p>
+</div>
 
-#### 🔧 Others
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="35"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="35"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="35"/> 
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="35"/> 
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="35"/> 
-</p>
+<br>
 
----
+## 📊 GitHub Analytics & Trophies
 
-### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ravindu422&show_icons=true&theme=radical" alt="stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravindu422&theme=radical" alt="streak" />
@@ -83,13 +81,36 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindu422&layout=compact&theme=radical" alt="top languages" />
 </p>
-
----
-
-### 🌟 Quote of the Day
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ravindu422&theme=onedark&row=1&column=6" alt="trophies"/>
+  </a>
 </p>
+<br>
+<br>
 
----
+## 🤝 Let's Connect & Collaborate!
 
+<div align="center">
+<br>
+  
+  **I'm always excited to connect with fellow developers, students, and tech enthusiasts!**
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ravindu-thiranjaya-a57a39365/)
+  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio.com)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-instagram)
+  
+</div>
+
+<br><br>
+
+<div align="center">
+  **🚀 Thanks for visiting my digital space! Let's build something amazing together! 🌟**
+</div>
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn"/>
+</div>
