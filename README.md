@@ -73,19 +73,27 @@
 
 ## 📊 GitHub Analytics & Trophies
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravindu422&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravindu422&theme=radical" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindu422&layout=compact&theme=radical" alt="top languages" />
-</p>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+<table align="center">
+<tr>
+  <td align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ravindu422&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+  </td>
+  <td align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravindu422&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  </td>
+</tr>
+<tr>
+  <td align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindu422&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
+  </td>
+  <td align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ravindu422&theme=onedark&row=1&column=6" alt="trophies"/>
-  </a>
-</p>
+    </a>
+  </td>
+  
+</tr>
+</table>
 <br>
 <br>
 
