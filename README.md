@@ -74,11 +74,11 @@
 ## 📊 GitHub Analytics & Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravindu422&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" style="max-width: 48%; height: auto;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravindu422&theme=radical&hide_border=true" alt="GitHub Streak" style="max-width: 48%; height: auto;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ravindu422&show_icons=true&theme=radical" alt="stats" width="40%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravindu422&theme=radical" alt="streak" width=42%/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindu422&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" style="max-width: 60%; height: auto;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindu422&layout=compact&theme=radical" alt="top languages" />
 </p>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
