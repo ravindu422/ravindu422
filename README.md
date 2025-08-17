@@ -74,15 +74,15 @@
 ## 📊 GitHub Analytics & Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravindu422&show_icons=true&theme=radical" alt="stats" width="40%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravindu422&theme=radical" alt="streak" width=42%/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=ravindu422&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="42%" src="https://github-readme-streak-stats.herokuapp.com/?user=ravindu422&theme=tokyonight&hide_border=false"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindu422&layout=compact&theme=radical" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindu422&layout=compact&theme=tokyonight&hide_border=false&langs_count=8"/>
 </p>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ravindu422&theme=onedark&row=1&column=6" alt="trophies" width="50%"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=ravindu422&theme=onedark&row=1&column=6&padding=10&margin-w=15&margin-h=15" width="50%"/>
   </a>
 </p>
   
