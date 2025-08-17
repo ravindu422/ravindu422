@@ -21,16 +21,31 @@
 
 👨‍💻 I’m a **Passionate Trainee Software Engineer** from Sri Lanka 🌍  
 
-✨ **What I love:**  
-- 🖥 Full Stack Development (MERN)  
-- 📱 Mobile App Development  
-- ☁️ DevOps & Cloud  
-- 🤖 AI/ML  
 
-🎯 **Current Focus:**  
-- Mastering **Agile Development (Scrum & Kanban)**  
-- Improving UI/UX design skills  
-- Exploring scalable backend architectures  
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+**✨ What I love:**
+- 🖥 Full Stack Development (MERN)
+- 📱 Mobile App Development  
+- ☁️ DevOps & Cloud
+- 🤖 AI/ML
+
+</td>
+<td width="50%">
+
+
+**🎯 Current Focus:**
+- Mastering **Agile Development (Scrum & Kanban)**
+- Improving UI/UX design skills
+- Exploring scalable backend architectures
+
+</td>
+</tr>
+</table>
+</div>
 
 💡 **Goal:** To craft meaningful, scalable applications that enhance user experiences 🚀
 
@@ -105,7 +120,9 @@
 <br><br>
 
 <div align="center">
-  <h4>Thanks for visiting my digital space! Let's build something amazing together!</h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" width="25">
+  
+  **Thanks for visiting my digital space! Let's build something amazing together!** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" width="25">
+  
 </div>
 
 
