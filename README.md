@@ -17,7 +17,7 @@
 
 <br>
 
-## 🚀 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30"> About Me
 
 👨‍💻 I’m a **Passionate Trainee Software Engineer** from Sri Lanka 🌍  
 
@@ -36,8 +36,7 @@
 
 <br>
 
-## 🛠️ Tech & Tools
-
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="26"> Tech & Tools
 <div align="center">
 
 ### 💻 Programming Languages
@@ -71,8 +70,7 @@
 
 <br>
 
-## 📊 GitHub Analytics & Trophies
-
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="33"> GitHub Analytics & Trophies
 <p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api?username=ravindu422&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img width="42%" src="https://github-readme-streak-stats.herokuapp.com/?user=ravindu422&theme=tokyonight&hide_border=false"/>
@@ -89,7 +87,7 @@
 <br>
 <br>
 
-## 🤝 Let's Connect & Collaborate!
+## <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="35"> Let's Connect & Collaborate!
 
 <div align="center">
 <br>
@@ -107,7 +105,7 @@
 <br><br>
 
 <div align="center">
-  **🚀 Thanks for visiting my digital space! Let's build something amazing together! 🌟**
+  <h4>Thanks for visiting my digital space! Let's build something amazing together!</h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" width="25">
 </div>
 
 
