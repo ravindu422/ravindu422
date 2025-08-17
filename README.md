@@ -82,7 +82,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ravindu422&theme=onedark&row=1&column=6&padding=10&margin-w=15&margin-h=15" width="50%"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=ravindu422&theme=onedark&row=1&column=6&padding=10&margin-w=15&margin-h=15" width="60%"/>
   </a>
 </p>
   
