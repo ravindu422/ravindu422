@@ -12,7 +12,7 @@
 </p>
   
   <img src="https://komarev.com/ghpvc/?username=ravindu422&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile views"/>
-  <img src="https://img.shields.io/github/stars/ravindu42?label=Total%20Stars&style=for-the-badge&color=yellow" alt="GitHub stars"/>
+  <img src="https://img.shields.io/github/stars/ravindu422?label=Total%20Stars&style=for-the-badge&color=yellow" alt="GitHub stars"/>
 </div>
 
 <br>
