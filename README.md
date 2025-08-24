@@ -80,11 +80,11 @@ i want to have this is two column table
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindu422&layout=compact&theme=tokyonight&hide_border=false&langs_count=8"/>
 </p>
-<p align="center">
+<!--<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ravindu422&theme=onedark&row=1&column=6&padding=10&margin-w=15&margin-h=15" width="60%"/>
   </a>
-</p>
+</p>-->
   
 <br>
 <br>
