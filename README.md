@@ -27,12 +27,11 @@
 - 📱 Mobile App Development  
 - ☁️ DevOps & Cloud  
 - 🤖 AI/ML
-- 
+  
 🎯 Current Focus:  
 - Mastering Agile Development (Scrum & Kanban)  
 - Improving UI/UX design skills  
 - Exploring scalable backend architectures  
-i want to have this is two column table
 
 💡 **Goal:** To craft meaningful, scalable applications that enhance user experiences 🚀
 
