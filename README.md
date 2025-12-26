@@ -1,4 +1,4 @@
-# Hi there, I'm Ravindu Thiranjaya 👋
+#Ravindu Thiranjaya 
 
 <div align="center">
   
