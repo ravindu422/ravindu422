@@ -64,11 +64,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="27"> Language Distribution
-
-<div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ravindu422&layout=compact&theme=tokyonight" />
-</div>
 
 </div>
 
@@ -76,12 +71,15 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="27"> GitHub Analytics & Trophies
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=ravindu422&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  
   <img width="42%" src="https://github-readme-streak-stats.herokuapp.com/?user=ravindu422&theme=tokyonight&hide_border=false"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindu422&layout=compact&theme=tokyonight&hide_border=false&langs_count=8"/>
+  <img width="42%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ravindu422&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ravindu422&layout=compact&theme=tokyonight&hide_border=false"/>
 </p>
+
 <!--<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ravindu422&theme=onedark&row=1&column=6&padding=10&margin-w=15&margin-h=15" width="60%"/>
