@@ -76,7 +76,7 @@
 </p>
 
 <p align="center">
-  <img width="43%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ravindu422&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="44%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ravindu422&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img  widht="45%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ravindu422&layout=compact&theme=tokyonight&hide_border=false"/>
 </p>
 
