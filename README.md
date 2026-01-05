@@ -72,7 +72,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="27"> GitHub Analytics & Trophies
 <p align="center">
   
-  <img width="42%" src="https://github-readme-streak-stats.herokuapp.com/?user=ravindu422&theme=tokyonight&hide_border=false"/>
+  <img width="42%" src="https://github-readme-streak-stats..anuraghazra1.vercel.app/?user=ravindu422&theme=tokyonight&hide_border=false"/>
 </p>
 
 <p align="center">
