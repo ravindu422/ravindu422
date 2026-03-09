@@ -29,8 +29,7 @@
 - 🤖 AI/ML
   
 🎯 Current Focus:  
-- Mastering Agile Development (Scrum & Kanban)  
-- Improving UI/UX design skills  
+- Mastering Agile Development (Scrum & Kanban)   
 - Exploring scalable backend architectures
 - Microservices
 
