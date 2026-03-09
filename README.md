@@ -31,7 +31,8 @@
 🎯 Current Focus:  
 - Mastering Agile Development (Scrum & Kanban)  
 - Improving UI/UX design skills  
-- Exploring scalable backend architectures  
+- Exploring scalable backend architectures
+- Microservices
 
 💡 **Goal:** To craft meaningful, scalable applications that enhance user experiences 🚀
 
