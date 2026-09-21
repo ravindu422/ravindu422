@@ -29,9 +29,9 @@
 - 🤖 AI/ML
   
 🎯 Current Focus:  
-- Mastering Agile Development (Scrum & Kanban)   
+- Enterprise Application Development 
 - Exploring scalable backend architectures
-- Microservices
+- Machine Learning 
 
 💡 **Goal:** To craft meaningful, scalable applications that enhance user experiences 🚀
 
